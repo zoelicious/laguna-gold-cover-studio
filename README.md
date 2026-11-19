@@ -10,6 +10,8 @@ Turn your photos into a Vice City sunset-poster cover — offline, in your brows
 
 Built for the [make.fun bounty gta6-cover-art-01](https://make.fun/bounty/gta6-cover-art-01).
 
+Referral: https://make.fun/r/nmy46sr8
+
 ## How it works
 
 1. **Pick photos** — six sample photos are built in; add your own from your machine (read locally, never uploaded).
